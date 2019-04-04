@@ -1,0 +1,24 @@
+{
+  "name": "@adaptiveweb/registry",
+  "version": "1.0.0",
+  "description": "Official registry of adapters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAdaptiveWeb/adapter-registry.git"
+  },
+  "files": [
+    "./index.js",
+    "./adapters/index.js",
+    "./adapters/*/dist"
+  ],
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/TheAdaptiveWeb/adapter-registry/issues"
+  },
+  "homepage": "https://github.com/TheAdaptiveWeb/adapter-registry#readme"
+}
