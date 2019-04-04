@@ -1,6 +1,6 @@
 {
   "name": "@adaptiveweb/registry",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Official registry of adapters",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/TheAdaptiveWeb/adapter-registry.git"
   },
   "files": [
-    "./index.js",
-    "./adapters/index.js",
-    "./adapters/*/dist"
+    "index.js",
+    "adapters/index.js",
+    "adapters/*/dist"
   ],
   "author": "",
   "license": "MPL-2.0",

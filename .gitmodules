@@ -1,0 +1,3 @@
+[submodule "adapters/video-audio-description"]
+	path = adapters/video-audio-description
+	url = https://github.com/TheAdaptiveWeb/VideoAudioDescription
