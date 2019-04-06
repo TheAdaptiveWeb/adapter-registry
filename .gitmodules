@@ -1,3 +1,9 @@
 [submodule "adapters/video-audio-description"]
 	path = adapters/video-audio-description
 	url = https://github.com/TheAdaptiveWeb/VideoAudioDescription
+[submodule "AltTagGenerator"]
+	path = AltTagGenerator
+	url = https://github.com/TheAdaptiveWeb/AltTagGenerator
+[submodule "adapters/alt-tag-generator"]
+	path = adapters/alt-tag-generator
+	url = https://github.com/TheAdaptiveWeb/AltTagGenerator
