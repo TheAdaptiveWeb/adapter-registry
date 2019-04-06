@@ -4,3 +4,6 @@
 [submodule "adapters/alt-tag-generator"]
 	path = adapters/alt-tag-generator
 	url = https://github.com/TheAdaptiveWeb/AltTagGenerator
+[submodule "adapters/contrast-adapter"]
+	path = adapters/contrast-adapter
+	url = https://github.com/TheAdaptiveWeb/ContrastAdapter

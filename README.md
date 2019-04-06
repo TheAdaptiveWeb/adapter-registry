@@ -13,6 +13,7 @@ Repository of published adapters. Use <a href="https://github.com/TheAdaptiveWeb
 | ------------- | ------------- | ----- | ----- |
 | Video Audio Description | Real-time audio description for web videos. | <a href="https://adaptiveweb.io/configure/#/adapters/video-audio-description"><img src="https://adaptiveweb.io/assets/badge.svg" alt="Install on the Adaptive Web" /></a> | <a href="https://github.com/TheAdaptiveWeb/VideoAudioDescription">Contribute on GitHub</a> |
 | Image Description | Generates descriptions of images with no alt-tags. | <a href="https://adaptiveweb.io/configure/#/adapters/alt-tag-generator"><img src="https://adaptiveweb.io/assets/badge.svg" alt="Install on the Adaptive Web" /></a> | <a href="https://github.com/TheAdaptiveWeb/AltTagGenerator">Contribute on GitHub</a> |
+| Contrast Adapter | Adaptive contrast based on WCAG 2.1 guidelines. | <a href="https://adaptiveweb.io/configure/#/adapters/contrast-adapter"><img src="https://adaptiveweb.io/assets/badge.svg" alt="Install on the Adaptive Web" /></a> | <a href="https://github.com/TheAdaptiveWeb/ContrastAdapter">Contribute on GitHub</a> |
 
 ## License
 This project is licensed under the Mozilla Public License 2.0. For full terms, please read the [LICENSE](/TheAdaptiveWeb/AdaptiveWeb-Core/blob/master/LICENSE) file.
