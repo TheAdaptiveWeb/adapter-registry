@@ -7,3 +7,6 @@
 [submodule "adapters/contrast-adapter"]
 	path = adapters/contrast-adapter
 	url = https://github.com/TheAdaptiveWeb/ContrastAdapter
+[submodule "adapters/symbol-translator"]
+	path = adapters/symbol-translator
+	url = https://github.com/TheAdaptiveWeb/SymbolTranslator.git

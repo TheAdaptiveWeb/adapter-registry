@@ -1,6 +1,6 @@
 {
   "name": "@adaptiveweb/registry",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Official registry of adapters",
   "main": "index.js",
   "scripts": {
